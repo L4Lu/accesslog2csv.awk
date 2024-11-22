@@ -1,2 +1,2 @@
-# accesslog2csv.awk
-Apache access. log converted to Excel csv
+# About
+Apache access.log converted to Excel .csv file
